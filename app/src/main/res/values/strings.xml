@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PoC Tuya App Android SDK</string>
+
+    <string name="user_login">Login</string>
+    <string name="user_country_code">Country Code</string>
+    <string name="user_account_tips">Email Address or Phone Number</string>
+    <string name="user_password">Password</string>
+
+    <string name="action_add_device">Add Device</string>
+    <string name="action_logout">Logout</string>
+    <string name="wifi_ssid_label">SSID</string>
+    <string name="pairing_data_label">Pairing Data</string>
+    <string name="tuya_token_label">Tuya Token</string>
+    <string name="search_button">Search</string>
+    <string name="wifi_device_pairing_instruction_brief">Connect to Wi-Fi 2.4 GHz and make sure device is pairing mode, then tap `Search` button.</string>
+    <string name="wifi_device_pairing_ap_mode_instruction_brief">Connect to device hotspot and make sure device is pairing mode, then tap `Search` button.</string>
+    <string name="zigbee_gateway_device_pairing_ap_mode_instruction_brief">Connect to local network as same as a device and make sure device is pairing mode, then tap `Search` button.</string>
+</resources>
